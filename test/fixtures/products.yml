@@ -1,13 +1,19 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-one:
+fred:
   title: MyString
   description: MyText
-  image_url: MyString
+  image_url: test.png
   price: 9.99
 
-two:
-  title: MyString
+dono:
+  title: MyString1
   description: MyText
-  image_url: MyString
+  image_url: test.png
   price: 9.99
+
+ruby:
+  title: Programming Ruby
+  description: ruby language
+  price: 4
+  image_url: test.png
